@@ -1,5 +1,10 @@
 # 👨‍💻 Docker tutorial
 
+## How to run it?
+```shell
+docker run -p 5000:5000 <username>/<repository>
+```
+
 ## 1. Build your Docker image by running the following command in the project directory:
 
 ```shell
